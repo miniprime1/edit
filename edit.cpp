@@ -1,11 +1,11 @@
 /* *****************************************
-	Edit, version 1.0
-	Copyright (c) 2020 miniprime1
+   Edit, version 1.0
+   Copyright (c) 2020 miniprime1
 
-	Description: Simple CLI Text Editor
-	License: MIT License (miniprime1, 2021)
-	Language: C++
-	Compiler: VC++, Clang, G++
+   Description: Simple CLI Text Editor
+   License: MIT License (miniprime1, 2021)
+   Language: C++
+   Compiler: VC++, Clang, G++
    ***************************************** */
 
 #include <iostream>
