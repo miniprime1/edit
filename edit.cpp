@@ -61,7 +61,7 @@ int main() {
 		    cout << "==================================================\n";
 		    fp.close();
         } else {
-            cout << "\n\nError: failed to create the file\n"; 
+            cout << "\n\nError: failed to open the file\n"; 
             cout << "\nPress enter key to exit"; 
             getchar(); return 1;
         }
@@ -82,7 +82,7 @@ int main() {
 		    cout << "==================================================\n";
 		    fp.close();
         } else {
-            cout << "\n\nError: failed to create the file\n"; 
+            cout << "\n\nError: failed to open the file\n"; 
             cout << "\nPress enter key to exit"; 
             getchar(); return 1;
         }
